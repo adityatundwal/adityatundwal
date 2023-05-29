@@ -17,11 +17,7 @@ I have good interpersonal skills, am an excellent team worker and am keen and ve
 </p>
 
 
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=adityatundwal&show_icons=true&include_all_commits=true&theme=algolia&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&hide=html&theme=algolia)
-
-![Streak](http://github-readme-streak-stats.herokuapp.com?user=adityatundwal&theme=algolia&date_format=j%20M%5B%20Y%5D)
-![LeetCode Stats](https://leetcode.card.workers.dev/adityatundwal?theme=dark&font=baloo&extension=null)
+![adityatundwal's Stats](https://github-readme-stats.vercel.app/api?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&count_private=true)![adityatundwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&hide_border=true)![LeetCode Stats](https://leetcode.card.workers.dev/adityatundwal?theme=dark&font=baloo&extension=null)![adityatundwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
 
