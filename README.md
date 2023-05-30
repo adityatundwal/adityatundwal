@@ -22,7 +22,13 @@ I have good interpersonal skills, am an excellent team worker and am keen and ve
 ![adityatundwal's Stats](https://github-readme-stats.vercel.app/api?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![adityatundwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&hide_border=true)
 ![LeetCode Stats](https://leetcode.card.workers.dev/adityatundwal?theme=dark&font=baloo&extension=null)
-![adityatundwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&layout=compact)\
+![adityatundwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+
+
+ <a href="https://github.com/adityatundwal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&hide_border=true"/><br/>
+  <a/>
 
 
 
