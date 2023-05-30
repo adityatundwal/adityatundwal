@@ -6,7 +6,7 @@ I'm a dedicated, organized and methodical individual. </br>
 I have good interpersonal skills, am an excellent team worker and am keen and very willing to learn and develop new skills.</br> I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.</br> I have an active and dynamic approach to work and getting things done. I am determined and decisive.I identify and develop opportunities.
 </h6>
 
-<h3> 🌐 Connect with me: <br></h3> 
+<h3 align="center"> 🌐 Connect with me:</h3> 
 <p align="center">
 <a href="mailto:aditya_tundwal_@outlook.com" target="outlook"><img alt="" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" /></a>
 <a  href="mailto:adityatundwal1998@gmail.com" target="gmail"><img alt="" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
@@ -18,17 +18,23 @@ I have good interpersonal skills, am an excellent team worker and am keen and ve
 
 
 
+<h3> 📈 Stats:</h3> 
 
-![adityatundwal's Stats](https://github-readme-stats.vercel.app/api?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-![adityatundwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&hide_border=true)
-![LeetCode Stats](https://leetcode.card.workers.dev/adityatundwal?theme=dark&font=baloo&extension=null)
-![adityatundwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![adityatundwal's Stats](https://github-readme-stats.vercel.app/api?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&count_private=true&card_width=1000)
+
+<h3> 🔥 Streak:</h3> 
+
+![adityatundwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&hide_border=true&card_width=1000)
+
+<h3> 👨‍💻 Leetcode Stats:</h3> 
+
+![LeetCode Stats](https://leetcode.card.workers.dev/adityatundwal?theme=dark&font=baloo&extension=null&card_width=1000)
+
+<h3> 💻 Tech Stack:</h3> 
+
+![adityatundwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&layout=compact&card_width=1000)
 
 
- <a href="https://github.com/adityatundwal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&hide_border=true"/><br/>
-  <a/>
 
 
 
