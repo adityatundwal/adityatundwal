@@ -19,7 +19,7 @@ I have good interpersonal skills, am an excellent team worker and am keen and ve
 
 
 
-![adityatundwal's Stats](https://github-readme-stats.vercel.app/api?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&count_private=true&card_width=auto)![adityatundwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&hide_border=true&card_width=450)![LeetCode Stats](https://leetcode.card.workers.dev/adityatundwal?theme=dark&font=baloo&extension=null)![adityatundwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&layout=compact)\
+![adityatundwal's Stats](https://github-readme-stats.vercel.app/api?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&count_private=true&card_width=auto)![adityatundwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&hide_border=true&card_width=400)![LeetCode Stats](https://leetcode.card.workers.dev/adityatundwal?theme=dark&font=baloo&extension=null)![adityatundwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&theme=algolia&show_icons=true&hide_border=true&layout=compact)\
 
 
 
