@@ -1,7 +1,7 @@
 <h1 align="center">Hello (👉■_■)👉I'm Aditya</h1>
 <h3 align="center">Currently Exploring Java, Flutter ,Dart and I love Open-Source</h3>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityatundwal&theme=nord_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityatundwal&theme=algolia">
 </p>
 
 ## Connect With Me:
@@ -18,8 +18,8 @@
 ## Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityatundwal&theme=nord_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityatundwal&theme=nord_dark&utcOffset=-5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityatundwal&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityatundwal&theme=algolia&utcOffset=-5">
 </p>
 
 ## Toolbag
@@ -44,5 +44,5 @@
 ## Streak
 
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=nord&layout=commpact) <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhxeHhzcGU1OWoxeHBoNXB4eDdjaGtjZmRjM2NpaHd5ejZqbnBlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="eatsleepcoderepeat" width=255>
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatundwal&theme=algolia&layout=compact) <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhxeHhzcGU1OWoxeHBoNXB4eDdjaGtjZmRjM2NpaHd5ejZqbnBlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="eatsleepcoderepeat" width=255>
 
